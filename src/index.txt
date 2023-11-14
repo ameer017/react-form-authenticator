@@ -1,0 +1,14 @@
+Install React Router v6
+Update index.js with RRv6
+
+create the components folder and its required files
+Basic Routing Setup
+useAuth hook
+RequireAuth component v1
+Manage browser history
+Testing with backend authentication
+RequireAuth component v2
+Applying Role-Based Routing
+Object lookup for roles
+Testing role-based routes
+Last note on the Unauthorized component
